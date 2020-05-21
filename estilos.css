@@ -1,0 +1,20 @@
+body{
+    background: url(blue-snow.png);
+    background-size: cover;
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+.contenedor{
+    width: 90%;
+    max-width: 800px;
+    margin: auto;
+}
+article{
+    background-color:#80c4d8;
+    color: 	#ffff;
+    padding: 0 20px 10px 20px;
+}
+article h2{
+    color: #ffff;
+    padding-top: 20px;
+}
